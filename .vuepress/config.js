@@ -19,14 +19,6 @@ module.exports = {
         text: 'Guide',
         link: '/guide/',
       },
-      {
-        text: 'Config Reference',
-        link: '/config/'
-      },
-      {
-        text: 'Default Theme Config',
-        link: '/default-theme-config/'
-      }
     ],
     sidebar: {
       '/guide/': [
@@ -35,13 +27,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'getting-started',
-            'basic-config',
-            'assets',
-            'markdown',
-            'using-vue',
-            'custom-themes',
-            'deploy'
+            'translator',
           ]
         }
       ]
