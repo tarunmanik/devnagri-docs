@@ -1,4 +1,4 @@
-# **Translator**
+# Translators
 
 ## Login with Translator ID
 

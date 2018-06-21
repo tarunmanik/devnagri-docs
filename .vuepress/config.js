@@ -16,6 +16,10 @@ module.exports = {
     docsDir: 'docs',
     nav: [
       {
+        text: 'Home',
+        link: 'http://www.devnagri.com',
+      },
+      {
         text: 'Guide',
         link: '/guide/',
       },
@@ -26,7 +30,7 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
-            '',
+            'create-project',
             'translator',
           ]
         }
