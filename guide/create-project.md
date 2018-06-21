@@ -1,5 +1,4 @@
-
-# Devnagri
+# Create Project
 
 Devnagri is a unique localization platform which is capable of providing translation services in a power-packed combo of A.I. and human Expertise.
 
@@ -16,6 +15,8 @@ After logging in, all the information of projects & Credits is displaying on Use
 ![alt text](./images/UserDashboard.png)
 
 # Step 3: Add New Project
+
+ Click on **Add New Project** to create a new Project and fill up the following fields related to the project:
 
  Click on **Add New Project** to create a new Project and fill up the following fields related to the project:
 
