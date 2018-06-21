@@ -32,6 +32,7 @@ module.exports = {
           children: [
             'create-project',
             'translator',
+            'glossary',
           ]
         }
       ]

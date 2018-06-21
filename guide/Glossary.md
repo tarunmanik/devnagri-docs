@@ -4,9 +4,8 @@ Glossaries are the definitions and meanings of specific sentences unique to your
 
 ## Types of Glossary
 
-## 1. Translate Term
-
-## 2. Do not translate
+1. Translate Term
+2. Do not translate
 
 ## Translate Term
 
