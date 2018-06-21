@@ -1,4 +1,5 @@
-# Devnagri
+# Create Project
+
 Devnagri is a unique localization platform which is capable of providing translation services in a power-packed combo of A.I. and human Expertise.
 
 The steps here will help on the use of our platform -
@@ -7,11 +8,13 @@ The steps here will help on the use of our platform -
 [ Log in to the platform.](https://app.devnagri.com)
 
 # Step 2: User Dashboard
+
 After logging in, all the information of projects & Credits is displaying on User Dashboard.
 
 ![alt text](./images/UserDashboard.png)
 
 # Step 3: Add New Project
+
  Click on **Add New Project** to create a new Project and fill up the following fields related to the project:
 
 
@@ -27,6 +30,7 @@ After logging in, all the information of projects & Credits is displaying on Use
 ![alt text](./images/ProjectDescription1.png)
 
 # Step 4: Upload File
+
 The file upload process is the same for all Localization formats concerning Web and Mobile applications. For example - `js`, `po` etc.
 
 ![alt text](./images/AddFile1.png)
