@@ -61,7 +61,7 @@ Example:
 
 Get all languages that we are using
 
-> `POST: https:\\dev.devnagri.co.in/api/all-languages`
+> `POST: https://dev.devnagri.co.in/api/all-languages`
 
 Response
 
@@ -260,11 +260,6 @@ Response:
         "id": 1,
         "name": "Hindi - हिंदी",
         "code": "hi",
-        "cost": "1.30",
-        "created_at": "2018-07-02 17:27:43",
-        "updated_at": "2018-07-02 17:27:43",
-        "selling_price": "3.00",
-        "proofreading_cost": "1.00",
         "translatedWordsCount": 0,
         "reviewedWordsCount": 0,
         "totalWordsCount": 31,
@@ -277,11 +272,6 @@ Response:
         "id": 2,
         "name": "Punjabi - ਪੰਜਾਬੀ",
         "code": "pa",
-        "cost": "1.30",
-        "created_at": "2018-07-02 17:27:43",
-        "updated_at": "2018-07-02 17:27:43",
-        "selling_price": "3.00",
-        "proofreading_cost": "1.00",
         "translatedWordsCount": 0,
         "reviewedWordsCount": 0,
         "totalWordsCount": 31,

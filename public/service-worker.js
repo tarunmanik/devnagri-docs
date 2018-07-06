@@ -21,10 +21,10 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a9c502f3d0d48c49b74125c369405496"
+    "revision": "c11d67c557ee5149f28a3dedf709f83c"
   },
   {
-    "url": "assets/css/7.styles.2167e590.css",
+    "url": "assets/css/8.styles.4a7e5fc4.css",
     "revision": "9eefd79a60778c0314806c526d53ab9b"
   },
   {
@@ -164,44 +164,52 @@ self.__precacheManifest = [
     "revision": "c4a7a541908356439837086a30df4fb1"
   },
   {
-    "url": "assets/js/2.6890e382.js",
-    "revision": "9cdd690a1d4923a6d239c1a9e813abe7"
+    "url": "assets/js/2.8619498f.js",
+    "revision": "d796e12873069e9a0365ddf21cb35caa"
   },
   {
-    "url": "assets/js/3.19caeb4b.js",
-    "revision": "555de89f7534e2c27fddcb234d64e889"
+    "url": "assets/js/3.521f78d6.js",
+    "revision": "72e3cc570f91a2ec894cf2b59596cbeb"
   },
   {
-    "url": "assets/js/4.e1578b7a.js",
-    "revision": "bd95f218fe07b6abda470c516e927447"
+    "url": "assets/js/4.a47c405c.js",
+    "revision": "215ae302c592f8e071f3b96b4e98c948"
   },
   {
-    "url": "assets/js/5.66c15d8a.js",
-    "revision": "39fe1f9314a8e32d5a522d8fe7818fe1"
+    "url": "assets/js/5.1b9800a0.js",
+    "revision": "028897c427b783d7f122a448bb1ddf82"
   },
   {
-    "url": "assets/js/6.ffc88be2.js",
-    "revision": "f0612718b18c8e87b88911c927ff297e"
+    "url": "assets/js/6.8ed629c0.js",
+    "revision": "9fef2cd79eccf216871dc75452780aa9"
   },
   {
-    "url": "assets/js/app.38d3eb26.js",
-    "revision": "f7671dfc9a6804717f1cc4ff24913cb6"
+    "url": "assets/js/7.d039d5b8.js",
+    "revision": "76dea4bb86432ce2f0ebb89d35253e82"
+  },
+  {
+    "url": "assets/js/app.e1d24e1f.js",
+    "revision": "fc4ec731c501da86ce35bb0db86f00af"
+  },
+  {
+    "url": "guide/api.html",
+    "revision": "90a9439f04b496e84b9876f2495a1d4e"
   },
   {
     "url": "guide/create-project.html",
-    "revision": "c2d38552ed6871daa38cd42d41a597ec"
+    "revision": "a8de69407965e1bc31296b441c48f72c"
   },
   {
     "url": "guide/glossary.html",
-    "revision": "ebab7965abfbe04099f640d60785a04f"
+    "revision": "53bde2897c5b3a448da968546d6b1a45"
   },
   {
     "url": "guide/index.html",
-    "revision": "d9e4fd0c9251a994d826ca3721dcf06e"
+    "revision": "bedd81790f8ff16d38f462d3a2d4ba8c"
   },
   {
     "url": "guide/translator.html",
-    "revision": "2621111fe64a6eeed1d900c49df86358"
+    "revision": "5e0d822f2d389cd88f893fcb11bcd281"
   },
   {
     "url": "hero.png",
@@ -209,7 +217,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ca9dd58918ace84c98a338d0c6bd9d54"
+    "revision": "c7911395de20fce8d0271bed4f65d839"
   },
   {
     "url": "logo-dark.png",

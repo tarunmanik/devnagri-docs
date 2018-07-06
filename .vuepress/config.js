@@ -33,6 +33,7 @@ module.exports = {
             'create-project',
             'translator',
             'glossary',
+            'api'
           ]
         }
       ]
