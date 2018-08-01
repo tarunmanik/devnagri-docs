@@ -30,10 +30,10 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
-            'create-project',
-            'translator',
-            'glossary',
-            'api'
+            'Client-Guide',
+            'Translator',
+            'Glossary',
+            'Api'
           ]
         }
       ]
