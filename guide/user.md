@@ -32,6 +32,7 @@ Navigation panel, available options are explained below;
 #### Profile
 
 Top-right corner has a profile section that includes User Name and registered Email address below which there are:
+
 ![Profile Section](./images/Profile.png)
 
 1. Account Settings
@@ -56,7 +57,7 @@ This tab shall blink whenever any new event happens with the project. For exampl
 
 #### Orders
 
-Using this menu user can check out all the orders (current and previous) along with payment status.  
+Using this menu user can check out all the orders (current and previous) along with payment status.
 ![Orders](./images/orders.png)![Order Details](./images/orders_2.png)
 
 #### Transactions

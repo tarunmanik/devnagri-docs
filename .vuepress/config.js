@@ -21,19 +21,31 @@ module.exports = {
       },
       {
         text: 'Guide',
-        link: '/guide/',
+        link: '/guide/user.html',
       },
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'User Guide',
           collapsable: false,
           children: [
-            'Client-Guide',
-            'Translator',
-            'Glossary',
-            'Api'
+            'user',
+            'glossary',
+          ]
+        },
+        {
+          title: 'Translator Guide',
+          collapsable: false,
+          children: [
+            'translator'
+          ]
+        },
+        {
+          title: 'Developer Guide',
+          collapsable: false,
+          children: [
+            'api'
           ]
         }
       ]
