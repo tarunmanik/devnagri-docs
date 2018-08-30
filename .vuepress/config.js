@@ -16,18 +16,36 @@ module.exports = {
     docsDir: 'docs',
     nav: [
       {
+        text: 'Home',
+        link: 'http://www.devnagri.com',
+      },
+      {
         text: 'Guide',
-        link: '/guide/',
+        link: '/guide/user.html',
       },
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'User Guide',
           collapsable: false,
           children: [
-            '',
-            'translator',
+            'user',
+            'glossary',
+          ]
+        },
+        {
+          title: 'Translator Guide',
+          collapsable: false,
+          children: [
+            'translator'
+          ]
+        },
+        {
+          title: 'Developer Guide',
+          collapsable: false,
+          children: [
+            'api'
           ]
         }
       ]

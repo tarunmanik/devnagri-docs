@@ -1,4 +1,4 @@
-# Devnagri
+# Translators
 
 A dedicated community to connect lingual experts globally as Kutumbh by Devnagri. It helps to resolve any query and in getting mentorship from experts. Not only it improves translation skills but also gives an opportunity to earn limitless with the quality work in the same field. Below given is the guide for translator to join Devnagri & start earning.
 
