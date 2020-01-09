@@ -1,6 +1,6 @@
 # Translators
 
-A dedicated community to connect lingual experts globally named as *Kutumbh* has been originated by Devnagri. It helps to resolve any query and in getting mentorship from experts. Not only it improves translation skills but also gives an opportunity to earn limitless with the quality work in the same field. Below given is the guide for translator to join Devnagri & start earning.
+A dedicated community to connect lingual experts globally as Kutumbh by Devnagri. It helps to resolve any query and in getting mentorship from experts. Not only it improves translation skills but also gives an opportunity to earn limitless with the quality work in the same field. Below given is the guide for translator to join Devnagri & start earning.
 
 ## Getting Started As Translator
 
@@ -8,65 +8,83 @@ A dedicated community to connect lingual experts globally named as *Kutumbh* has
 
 Translator (Further, can be termed as “Translator”or “User”) can join the community either by using the [link](https://kutumbh.devnagri.com/) or else by clicking “**Become a Translator**” button given on top of the [home page](https://www.devnagri.com/). ![Become Translator](./images/trans_signup.png)
 
-1. Fill the form with the appropriate details and choose “Next” option ![Form 1](./images/trans_signup_form1.jpg)
-2. Verify your email ID and select “Complete Your Profile” option ![Form 2](./images/trans_signup_form2_1.jpg)![Form 2](./images/trans_signup_form2_2.jpg)
-3. Enter the residential details properly and press “Next” button or you can “Skip” to add info later. ![Form 3](./images/trans_signup_form3.png)
-4. Add Language pair with proficiency level to finally "Finish" the process of sign up. ![Form 4](./images/trans_signup_form4.jpg)
+1. Add Language pair with proficiency level, Domain expertise and choose “Next” option  ![Form 1](./images/Select_Language.png)
+2. Select the Terms & Condition checkbox and choose"Next" option ![Form 2](./images/T&C.png)
+3. Fill the form with the appropriate details and choose “Finish” option  ![Form 3](./images/Personal_Details.png)
+4. Success message will be displayed.
 
 ### Log In
 
 1. User can [login devnagri](https://app.devnagri.com/login) by using credentials (EMail ID & password) made during the sign-up process
+2. User can also login using his/her social media (Linkedin, Google Plus or GitHub) credentials .
 3. User can also login using “Magic Link” option, using it user shall enter the registered email ID in the given text box and a unique link shall be emailed on the same ID using which he/she can login directly.
 
-![Trans Signin](./images/Sign_in_trans.jpg)
+![Trans Signin](./images/Sign_in_trans.png)
 
 ### Password Recovery
 
-If user has forgotten (or want to reset)  the registered password, then using “Forgot" option given on login screen it can be renewed (or reset). Enter the registered Email ID, a reset password link will be emailed. Click on that link and enter new password. User will be notified on the successful change of the password.
+If user has forgotten (or want to reset)  the registered password, then using “Forgot Password” option given on login screen it can be renewed (or reset). Enter the registered Email ID, a reset password link will be emailed. Click on that link and enter new password. User will be notified on the successful change of the password. 
 
-![Trans Signin](./images/password_recovery.png)
+![Trans Signin](./images/Sign_in_trans.png)
 
 ## Translator Dashboard
 
-Translator dashboard is the landing screen after the login, it will display all the vital info about the project and profile of the translator.
+Translator dashboard is the landing screen after the login, it will display all the vital info about the order and profile of the translator.
 
 ### Navigation Panel
 
 Navigation panel, available options are explained below;
-![Navigation Panel](./images/navigation_panel.png)
+![Navigation Panel](./images/dashboard.png)
 
-* User Details: It is the first option on top-right corner of the screen. This option will navigate to account settings, profile, guide and will help to log out from current account.
+1. **Profile**: It is the first option on top-right corner of the screen. This option will navigate to account settings, profile, guide and will help to log out from current account.
 
-![Navigation Profile](./images/nav_profile.png)
+![Navigation Profile](./images/Trans_dashboard.png)
 
-* Notification: This option higlights any new update important for translator.
+2. **Notification**: This option higlights any new update important for translator. Once click on any notification user will redirect to actual screen.
 
-![Navigation Notification](./images/nav_notification.png)
+![Navigation Notification](./images/new_notification.png)
 
-* Earnings: Using this option user can check all the updates for standing and paid amounts.
+3. **Available Jobs**: All the new orders should be displayed in available jobs screen.
 
-![Navigation Earning](./images/nav_earning.png)
+![Available Jobs](./images/Available_jobs.png)
 
-* Projects: Using projects button user can check all his projects along with their current status.
+Order Detail
 
-![Navigation Project](./images/nav_project.png)
+![Order Detail](./images/new_order_detail.png)
+
+Translator should **Accept** the order by click on accept button. After accepting, that order will reflect on Active Jobs screen.
+
+or
+
+ Transltor can **Reject** the order aswell. After rejecting, that order will not reflect to translator.
+
+ 4. **Active Jobs**: All the accepted orders will be displayed on Active jobs screen.
+
+![Active Jobs](./images/Active_jobs.png)
+
+Translator can start their job by clicking on **Translate** button
+
+5. **Completed Jobs**: All your orders accepted by client will be displayed on Completed Jobs.
+
+![Completed Jobs](./images/completed_jobs.png)
+
+6. Earnings: Using this option user can check all the updates for standing and paid amounts.
+
+![Navigation Earning](./images/new_earnings.png)
+
+
 
 ### Edit Profile
 
 Translator should edit his profile before moving forward. Selecting this option will land to the page holding tabs as described below:
 
-![Edit profile](./images/trans_edit_profile.png)
+![Edit profile](./images/New_profile.png)
 
 1. General Info: Upload a Picture, Edit personal information such as Name, number etc. Then give short description about your past experience in “About Me” section. Next, “Add Address” if not added earlier or if you want to change it. User can also add the educational qualification under “Education” section given further below. If user has any certifications or achievements related to the translation field then he can mention the same in “Certificate & Achievements”. “Save” the info edited and move to the next tab.![General Info](./images/trans_info.png)
-
 2. Languages: Here, user will find the language added at the time of Sign-up. User can add more languages using the button “Add More Languages” under this tab, also user can choose to “Take Test” if the language is added recently using the option “Actions”. User can also “Deactivate” the verified language using same “Actions” option. Save the details as per the choice. Status will show the updates in a particular language as activated, not verified or deactivated.![Edit Languages](./images/trans_edit_lang.png)
-
 3. Domain Expertise: This option helps the translator to add the field he is expert in, for translation purpose. User can add multiple fields depending upon the knowledge, there is no upper cap. User can also remove the domain using option under “Actions”. Use “Save” button to confirm the choices.![Edit domain](./images/trans_domain.png)
-
 4. Social: User can link his social media platforms such as “Facebook”, “LinkedIn” to showcase in profile. Click on “Connect” button and add profile by logging with the credentials of that platform. Click “Save” button after completing the integration process.![Edit Social Media](./images/trans_social.png)
-
-5. Bank Details: Add bank details carefully for successful payout of the projects complete. User require minimum of Rs. 500 balance to request for a payout. User can add more than one account and can set a default account. Also, an account details can be deleted using the option under “Actions”. Press “Save” button to store the preferences.![Edit Bank Details](./images/trans_bank.jpg)
-
+5. Bank Details: Add bank details carefully for successful payout of the projects complete. User require minimum of Rs. 500 balance to request for a payout. User can add more than one account and can set a default account. Also, an account details can be deleted using the option under “Actions”. Press “Save” button to store the preferences.![Edit Bank Details](./images/trans_bank.png)
 6. View Profile: User can view all the changes made and how it will be showcased in our community.
 
 ## Attempt Test
@@ -226,3 +244,4 @@ As soon as translator completes all the files in each language the complete butt
 Once the translation is accepted at our end the user will get the “Completed” message on the top of the project. A notification and an email will be sent to the user credentials. Earnings will be added in the account.
 
 ![Project completed](./images/trans_project_completed.png)
+
