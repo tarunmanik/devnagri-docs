@@ -92,7 +92,19 @@ Translator should edit his profile before moving forward. Selecting this option 
 User will be required to attempt test in order to start with the projects in desired language and field.![Translator Test](./images/trans_test.png)
 
 1. The option to attempt test will be available on the dashboard for the first time user. Click and start test to get “verified” tag
+
+![Translator Test from Dashboard](./images/Test_from_dashboard.png)
+
 2. User will be required to attempt all questions.
+
+
+![Test](./images/test_screen.png)
+
+After attempting all the question, translator have to finally submit the test.
+
+![Test](./images/Test_final_submit.png)
+
+
 3. On the basis of evaluation user will either be verified or would be required to take test again. In both the cases user will be notified via email and notification.
 
 ## Translation of the Project
