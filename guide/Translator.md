@@ -34,7 +34,7 @@ Translator dashboard is the landing screen after the login, it will display all 
 ### Navigation Panel
 
 Navigation panel, available options are explained below;
-![Navigation Panel](./images/dashboard.png)
+![Navigation Panel](./images/new_dashboard.png)
 
 1. **Profile**: It is the first option on top-right corner of the screen. This option will navigate to account settings, profile, guide and will help to log out from current account.
 
