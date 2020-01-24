@@ -107,58 +107,84 @@ After attempting all the question, translator have to finally submit the test.
 
 3. On the basis of evaluation user will either be verified or would be required to take test again. In both the cases user will be notified via email and notification.
 
+
+
 ## Translation of the Project
 
 As soon as the translator is assigned a project, he will be notified in “Notification” tab and also via Email on the registered email address. Click on the project name highlighting on the dashboard to start with the translation.
 
 ### Translation Screen
 
-This screen will be showing every details for the translation to be appropriate, user will require to follow the steps as given below ![Translation Screen](./images/T1main-screen.jpg)
+This screen will be showing every details for the translation to be appropriate, user will require to follow the steps as given below 
+
+![Translation Screen](./images/New_Translation_Page.png)
 
 #### Header Section
 
-The section holds important information regarding the project such as:
+The section holds important information regarding the Order such as:
 
-##### Project Type
+##### Order Type
 
-It gives a detail about the category from which the project belong ![Project Type](./images/T1project-type.jpg)
+It gives a detail about the category from which the project belong 
+![Order Type](./images/New_Order_type.png)
 
-##### Project Industry
+##### Order Industry
 
-This will help in understanding the exact background and targeted industry of the project ![Project Industry](./images/T1project-industry.jpg)
+This will help in understanding the exact background and targeted industry of the project 
+![Project Industry](./images/New_order_industry.png)
 
-##### Target Audience
-
-This option shall specify the target audience age group, this concern helps to translate keeping the words understandable for that level of audience.![Target Audience](./images/T1target-audience.jpg)
 
 ##### Level of Politeness
 
-Client will specify the level of politeness as in what form shall the translation take place.![Level of Politeness](./images/T1level-of-politeness.jpg)
+Client will specify the level of politeness as in what form shall the translation take place.![Level of Politeness](./images/New_Level_of_politeness.png)
+
+##### Sorting of Translation
+
+This will help to sort the translation by multiple filters like: 
+1. Translated: All the translated sentences will be  filtered out by using this option.
+2. Untranslated: All the untranslated sentences will be  filtered out by using this option.
+3. Accepted: All the sentences accepted by proofreader or client will be filtered out by using this option.
+4. Rejected: All the sentences rejected by proofreader or client will be filtered out by using this option.
+
+![Filter](./images/New_translation_sorting.png)
 
 #### Main Translation Screen
 
 The screen will hold two main sections for the translators
 
+##### S.No
+
+Serial number will show the number of sentences.
+![Serial Number](./images/New_S_no.png)
+
+
 ##### Original Text
 
-The left side of main screen will show the “original text” which requires translation ![Original Text](./images/T1orignal-text.jpg)
+The left side of main screen will show the “original text” which requires translation 
+![Original Text](./images/New_Original_text.png)
 
 ##### Translated Text
 
-Translator shall translate the text in this box against each message. There are three options along with text box ![Translated Text](./images/T1translated-text.jpg)
+Translator shall translate the text in this box against each message. There are three options along with text box 
+![Translated Text](./images/New_translated_text.png)
 
-###### Save
+##### Save
 
-The translator shall “Save” each correct translation using “Enter” option of the keyboard. As soon as the translator click “Enter” button the text will be auto saved and cursor will move to the next option ![Save](./images/T1save.jpg)
+The translator shall “Save” each correct translation using “Save icon” option of the keyboard. As soon as the translator click “Enter” button the text will be auto saved and cursor will move to the next option 
+![Save](./images/New_Save.png)
 
-###### Comment
+##### Comment
 
-Each comment from the end user, reviewer, manager, translator against each sentence shall be inside this option ![Comment 1](./images/T1comment1.jpg)
-![Comment 2](./images/T1comment2.jpg)
+Each comment from the end user, reviewer, manager, translator against each sentence shall be inside this option 
+![Comment 1](./images/New_Comment_icon.png)
 
-###### Revision History
+By clicking on comment icon the pop up will appear.
 
-The option will give the number of revisions that the translator had done for the appropriate output ![Revision History](./images/T1revision-history.jpg)
+![Comment 2](./images/New_Comment_popup.png)
+
+##### Revision History
+
+The option will give the number of revisions that the translator had done for the appropriate output ![Revision History](./images/New_Revision_history.png)
 
 #### Footer Section
 
@@ -166,34 +192,42 @@ Footer section will hold a few vital options and information about the project s
 
 ##### Information Bar
 
-###### Toggle Controls
+##### Toggle Controls
 
-To minimize or maximize the controls tray, user can click on the “Toggle Controls” option. This helps in removing the non-active controls from translation screen. ![Toggle Control](./images/T1toggle1.jpg)
-![Toggle Control](./images/T1toggle2.jpg)
+To minimize or maximize the controls tray, user can click on the “Toggle Controls” option. This helps in removing the non-active controls from translation screen. 
+![Toggle Control](./images/New_toggle_control.png)
+
 
 ###### Colored Button Status
 
 Each color define the status of translation as:
 
-* Completed - accepted at user end ![Completed](./images/T1completed.jpg)
+* Completed - accepted at user end 
+![Completed](./images/New_Completed_stat.png)
 
-* Translated - if the translation is done ![Translated](./images/T1translated.jpg)
+* Translated - if the translation is done
+ ![Translated](./images/New_Translated_text.png)
 
-* Rejected - for all the rejected translations ![Rejected](./images/T1rejected.jpg)
+* Rejected - for all the rejected translations 
+![Rejected](./images/New_rejected_text.png)
 
-* Non-translated - the translations on which the work is yet to be done ![Non-Translated](./images/T1non-translated.jpg)
+* Non-translated - the translations on which the work is yet to be done 
+![Non-Translated](./images/New_Non_Translate.png)
 
 ###### Total Words
 
-It will give the total words for the translation to be done ![Total Words](./images/T1Total_words.jpg)
+It will give the total words for the translation to be done 
+![Total Words](./images/New_Total_word.png)
 
 ###### Translated Word
 
-The total word count for the translated words against original text. ![Translated Word](./images/T1translated-words.jpg)
+The total word count for the translated words against original text. 
+![Translated Word](./images/New_Translated_words.png)
 
 ###### Completed Percentage
 
-This will show the percentage amount of translation completed by the translator. ![Complete Percentage](./images/T1percentage.jpg)
+This will show the percentage amount of translation completed by the translator. 
+![Complete Percentage](./images/New_Completed_Percentage.png)
 
 ##### Action Bar
 
@@ -201,43 +235,50 @@ There are few options that translator can use for the easy and quick work.
 
 ###### AT
 
-Automated Translation, it opens default at first time translator comes to translation screen. This will hold all the automated machine translations to help the translator to work efficiently ![AT](./images/T1at.jpg)
+Automated Translation, it opens default at first time translator comes to translation screen. This will hold all the automated machine translations to help the translator to work efficiently 
+![AT](./images/New_AT.png)
 
 ###### TM
 
-Translation Memory, it will hold all the earlier done translations for similar projects. The translator shall select the matching words from translation memory to complete the task at a faster pace. ![TM](./images/T1tm.jpg)
+Translation Memory, it will hold all the earlier done translations for similar projects. The translator shall select the matching words from translation memory to complete the task at a faster pace. 
+![TM](./images/New_TM.png)
 
 ###### Keyboard
 
-There are few shortcut keys or controls to speed up the translation work, the translator can use all the shortcuts mentioned under this. ![Keyboard](./images/T1keyboard.jpg)
+There are few shortcut keys or controls to speed up the translation work, the translator can use all the shortcuts mentioned under this. 
+![Keyboard](./images/New_KS.png)
 
 ###### i
 
-All the instruction related to translation and overall suggestion by the user will be stored here. Translator should read these instructions (if given) before starting the work ![Information](./images/T1i.jpg)
+All the instruction given by client related to translation and overall suggestion by the user will be stored here. Translator should read these instructions (if given) before starting the work 
+![Information](./images/New_Instructions.png)
 
 ###### A
 
-Translator can adjust the text size using this option ![Zoom](./images/T1zoom.jpg)
+Translator can adjust the text size using this option ![Zoom](./images/New_inc_dec.png)
 
 ###### Page View
 
-It helps in switching the page view from orginal plus translated content to only translated content. ![Page View](./images/pageview.jpg)
+It helps in switching the page view from orginal plus translated content to only translated content. ![Page View](./images/New_pageview.png)
 
 ###### Language
 
-The language tab will hold all the languages assigned to translator for conversion. The translator can switch the languages to complete project. **NOTE**: for single pair of language translation the tab will remain freezed. ![Language](./images/T1languages.jpg)
+The language tab will hold all the languages assigned to translator for conversion. The translator can switch the languages to complete project. **NOTE**: for single pair of language translation the tab will remain freezed. 
+![Language](./images/New_Language.png)
 
 ###### File
 
-The file tab will show all the files, present for translation. The translator has to complete translation for all of the assigned files before the project is completed. ![File](./images/T1file.jpg)
+The file tab will show all the files, present for translation. The translator has to complete translation for all of the assigned files before the project is completed.
+ ![File](./images/New_Fileselect.png)
 
 ###### Autofill AT
 
-To fill the complete project with automated translation user can choose this option and select from the given recommendations. **Note**: If the translator chooses this option after partially translating the project manually, then, the work done will get overridden by automated translation. Thus, translator should use this option carefully. ![Autofill](./images/T1auto-fill.jpg)
+To fill the complete project with automated translation user can choose this option and select from the given recommendations. **Note**: If the translator chooses this option after partially translating the project manually, then, the work done will get overridden by automated translation. Thus, translator should use this option carefully. 
+![Autofill](./images/New_Autofill.png)
 
 ###### Complete
 
-As soon as translator completes all the files in each language the complete button will be activated for translator to send the work to manager, reviewer etc. ![Translation Complete](./images/T1complete.jpg)
+As soon as translator completes all the files in each language the complete button will be activated for translator to send the work to manager, reviewer etc. ![Translation Complete](./images/New_Complete_trans.png)
 
 ### Steps of Translation
 
@@ -250,10 +291,3 @@ As soon as translator completes all the files in each language the complete butt
 * As soon as the last sentence is translated from all the files and in all the languages, “Complete” button will be activated in action bar, click the button to submit text for “Proofreading”.
 
 * Dashboard will show the project, it will be showing the status as “Proofreading” for further confirmation.
-
-### Translation Completed
-
-Once the translation is accepted at our end the user will get the “Completed” message on the top of the project. A notification and an email will be sent to the user credentials. Earnings will be added in the account.
-
-![Project completed](./images/trans_project_completed.png)
-
