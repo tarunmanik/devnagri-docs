@@ -13,9 +13,6 @@ Glossaries are the definitions and meanings of specific sentences unique to your
 
 ![alt text](./images/TranslateTerm.png)
 
-   The instructions given by the client will displaying on translation page on mousehover on that particular phrase.
-
-![alt text](./images/Instructiondisplay.png)
 
 ## Do not Translate
 
@@ -23,20 +20,34 @@ By using this option the phrase should be displayed highlighted on translation p
 
 ![alt text](./images/Donottrans.png)
 
-![alt text](./images/donotdisp.png)
-
 ## How to Add Glossary
 
-### Step 1: Go to Project
-
+### Step 1: Go to Order
 ### Step 2: Go to Glossary tab
 
-### Step 3: Click on Add Glossary Button
+### ![Glossary](./images/Glossary.png)
 
-![alt text](./images/addglossary.png)
+### Manual Glossary
+i. Add the “Industry”, select according to the order and terminology
 
-![alt text](./images/glossaryadd.png)
+ii. “Term” add the term/word
 
-## Step 4: Glossary View
+iii.“Description” is used to add details for the term added. It helps if the translation is required but in a specialized way,
 
-![alt text](./images/Glossaryview.png)
+iv.“Translate Term” Select or Deselect; on selecting the option terminology will be translated according to the given instructions & on deselecting the word will remain untranslated. 
+
+v. Use “Save” option to store the terms in glossary.
+
+![Add Glossary](./images/Add_Glossary.png)
+
+### Upload Glossary
+i. To understand how to upload the terms in bulk user can “Download Sample File”. Add the term, description, and the status of translation in “Yes/No”
+
+ii. After the information is added in the file and saved, choose the “Industry”.
+
+iii. Upload the file by simple “drag and drop” or selecting the local file destination. 
+
+iv. As soon as the file gets successfully uploaded select “Save” option.
+
+![Upload Glossary](./images/Upload_Glossary.png)
+
