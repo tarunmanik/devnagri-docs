@@ -276,6 +276,12 @@ The file tab will show all the files, present for translation. The translator ha
 To fill the complete project with automated translation user can choose this option and select from the given recommendations. **Note**: If the translator chooses this option after partially translating the project manually, then, the work done will get overridden by automated translation. Thus, translator should use this option carefully. 
 ![Autofill](./images/New_Autofill.png)
 
+###### Find & Replace
+
+Translator can use this option by the key Ctrl+Shift+F to find the content from translated text and replace it.
+Translator can replace the searched text from a single string or can replace the searched text from all the sentences in one go.
+![Find & Replace](./image/F&R.png)
+
 ###### Complete
 
 As soon as translator completes all the files in each language the complete button will be activated for translator to send the work to manager, reviewer etc. ![Translation Complete](./images/New_Complete_trans.png)
